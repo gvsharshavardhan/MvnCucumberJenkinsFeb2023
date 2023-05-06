@@ -3,4 +3,5 @@ this is automation class
 selenium framework
 java tutorial
 sunday
+monday
 saturday
