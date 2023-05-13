@@ -4,9 +4,6 @@
     <test verbose="2" preserve-order="true" name="C:/Users/Harsha/myOwnWorkSpace/MvnCucumberJenkinsFeb2023">
         <classes>
             <class name="MyTestCases.LoginTest">
-                <methods>
-                    <include name="testFirst"/>
-                </methods>
             </class>
         </classes>
     </test>
